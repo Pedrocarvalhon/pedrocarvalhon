@@ -39,6 +39,6 @@ Atualmente focado em <strong>Python</strong>, <strong>Java</strong> e <strong>Re
 
 ---
 
-### ✨
+### 
 
 > “Aprender é o único deploy que nunca falha.” 🚀
