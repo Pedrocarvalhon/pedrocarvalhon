@@ -73,6 +73,16 @@
 
 <!-- Banner inferior -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=120&section=footer"/>
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Pedrocarvalhon&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Pedrocarvalhon&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pedrocarvalhon&theme=tokyo-night" />
+</div>
+
+---
 
 
 
