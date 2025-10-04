@@ -64,12 +64,6 @@
 
 ---
 
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pedrocarvalhon&color=blueviolet&style=flat-square" alt="Profile views"/>
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=120&section=footer"/>
 <h3 align="center">💬 “Aprender é o único deploy que nunca falha.” 🚀</h3>
 
 <p align="center">
@@ -77,8 +71,5 @@
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=120&section=footer"/>
-
-
-
 
 
