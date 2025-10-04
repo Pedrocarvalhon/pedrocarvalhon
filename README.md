@@ -15,7 +15,7 @@
 - 🎯 Sempre em busca de novos desafios e aprendizado contínuo  
 - 🧩 Adoro transformar ideias em projetos funcionais  
 - 🛠️ Explorando integração entre back-end  
-- 📍 Baseado no Brasil 🌎  
+  
 
 ---
 
