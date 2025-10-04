@@ -41,13 +41,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pedrocarvalhon&theme=tokyo-night" />
 </div>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pedrocarvalhon/Pedrocarvalhon/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pedrocarvalhon/Pedrocarvalhon/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Pedrocarvalhon/Pedrocarvalhon/output/github-snake.svg" />
-  </picture>
-</div>
 ---
 
 ### 💼 Projeto em Destaque
@@ -71,6 +64,12 @@
 
 ---
 
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pedrocarvalhon&color=blueviolet&style=flat-square" alt="Profile views"/>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=120&section=footer"/>
 <h3 align="center">💬 “Aprender é o único deploy que nunca falha.” 🚀</h3>
 
 <p align="center">
