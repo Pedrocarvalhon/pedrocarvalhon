@@ -48,7 +48,7 @@
 
 | 💡 Projeto | 🧰 Tecnologias | 🔗 Link |
 |-------------|----------------|---------|
-| **Portfólio Uai** | React, HTML, CSS, JavaScript | [Ver projeto](https://github.com/Pedrocarvalhon/portifolio-uai) |
+| **Portfólio** | React, HTML, CSS, JavaScript | [Ver projeto](https://github.com/Pedrocarvalhon/Portfolio) |
 
 ---
 
@@ -73,6 +73,7 @@
 
 <!-- Banner inferior -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=120&section=footer"/>
+
 
 
 
