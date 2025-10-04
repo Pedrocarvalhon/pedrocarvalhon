@@ -1,4 +1,3 @@
-<!-- Banner superior -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=👋%20Olá,%20eu%20sou%20o%20Pedro!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 <h3 align="center">💻 Desenvolvedor focado em construir soluções simples e poderosas.</h3>
@@ -42,6 +41,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pedrocarvalhon&theme=tokyo-night" />
 </div>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pedrocarvalhon/Pedrocarvalhon/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pedrocarvalhon/Pedrocarvalhon/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Pedrocarvalhon/Pedrocarvalhon/output/github-snake.svg" />
+  </picture>
+</div>
 ---
 
 ### 💼 Projeto em Destaque
@@ -71,18 +77,7 @@
   <img src="https://komarev.com/ghpvc/?username=Pedrocarvalhon&color=blueviolet&style=flat-square" alt="Profile views"/>
 </p>
 
-<!-- Banner inferior -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=120&section=footer"/>
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Pedrocarvalhon&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Pedrocarvalhon&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pedrocarvalhon&theme=tokyo-night" />
-</div>
-
----
 
 
 
