@@ -1,0 +1,24 @@
+name: Generate Snake
+
+on:
+  schedule:
+    # Roda automaticamente a cada 24 horas
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+    # Permite rodar manualmente a qualquer momento
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Permissão necessária para escrever o arquivo de saída
+    
+    steps:
+      - uses: actions/checkout@v4
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
