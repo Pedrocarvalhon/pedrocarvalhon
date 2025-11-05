@@ -13,7 +13,7 @@
 
 - 🎯 Aprendizado contínuo e foco total em evolução
 - 🧩 Transformando ideias em projetos reais
-- 🛠️ Apaixonado por tecnologia, automação e boas práticas
+- 🛠️ Apaixonado por tecnologia
 
 ---
 
