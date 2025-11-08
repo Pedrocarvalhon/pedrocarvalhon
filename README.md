@@ -1,7 +1,7 @@
 <!-- HEADER -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=2A5298&center=true&vCenter=true&width=700&lines=👋+Olá,+eu+sou+Pedro+Carvalho!;💻+engenharia de software;!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=2A5298&center=true&vCenter=true&width=700&lines=👋+Olá,+eu+sou+Pedro+Carvalho!;💻+Estudante+de+Engenharia+de+Software;🚀+Apaixonado+por+tecnologia+e+inovação!" />
 
-<h3 align="center">💡 versão beta da vida .</h3>
+<h3 align="center">💡 Versão beta da vida.</h3>
 
 <p align="center">
 🚀 Estudando <strong>Python</strong>, <strong>Java</strong> e <strong>React</strong><br>
@@ -17,7 +17,7 @@
 
 💡 Sempre aprendendo e evoluindo  
 ⚙️ Transformando ideias em projetos reais  
-
+🎯 Foco total em crescimento profissional  
 
 </div>
 
@@ -30,15 +30,16 @@
 **Linguagens**  
 ![Python](https://skillicons.dev/icons?i=python)
 ![Java](https://skillicons.dev/icons?i=java)
-![React](https://skillicons.dev/icons?i=react&theme=dark&perline=15)
+![REACT](https://skillicons.dev/icons?i=react&theme=dark&perline=15).
+
+
 
 **Frameworks e Bibliotecas**  
-![React](https://skillicons.dev/icons?i=react)
-![nodejs](https://skillicons.dev/icons?i=nodejs)
-![fastApi](https://skillicons.dev/icons?i=fastapi&theme=dark&perline=15).
+![react](https://skillicons.dev/icons?i=react)
+![fastapi](https://skillicons.dev/icons?i=fastapi)
+![tkinter](https://img.shields.io/badge/Tkinter-%233776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Ferramentas**  
-
 ![github](https://skillicons.dev/icons?i=github)
 ![figma](https://skillicons.dev/icons?i=figma)
 ![vscode](https://skillicons.dev/icons?i=vscode)
@@ -70,8 +71,6 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=pedroTuribio&repo=Portfolio&theme=tokyonight&hide_border=true" />
 </a>
 
-
-
 </div>
 
 ---
@@ -96,6 +95,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pedroTuribio&color=blueviolet&style=flat-square"/>
 </p>
-
 
 
