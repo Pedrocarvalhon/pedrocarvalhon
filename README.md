@@ -81,7 +81,6 @@
 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pedro-carvalho-turibio-78158337a/)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/_pedrocarvalhot/)
-[![Github](https://skillicons.dev/icons?i=github)](https://github.com/pedroTuribio)
 
 </div>
 
