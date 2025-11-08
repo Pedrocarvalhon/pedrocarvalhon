@@ -1,6 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=👋%20Olá,%20eu%20sou%20o%20Pedro!&fontSize=32&fontColor=fff&animation=fadeIn"/>
+<!-- HEADER -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=2A5298&center=true&vCenter=true&width=700&lines=👋+Olá,+eu+sou+Pedro+Carvalho!;💻+engenharia de software;!" />
 
-<h3 align="center">💻 Desenvolvedor focado em construir soluções modernas, rápidas e inteligentes.</h3>
+<h3 align="center">💡 versão beta da vida .</h3>
 
 <p align="center">
 🚀 Estudando <strong>Python</strong>, <strong>Java</strong> e <strong>React</strong><br>
@@ -10,10 +11,15 @@
 ---
 
 ## 🧠 Sobre mim
+<div align="center">
 
-- 🎯 Aprendizado contínuo e foco total em evolução
-- 🧩 Transformando ideias em projetos reais
-- 🛠️ Apaixonado por tecnologia
+<img align="right" width="230" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+💡 Sempre aprendendo e evoluindo  
+⚙️ Transformando ideias em projetos reais  
+
+
+</div>
 
 ---
 
@@ -21,9 +27,21 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**Linguagens**  
+![Python](https://skillicons.dev/icons?i=python)
+![Java](https://skillicons.dev/icons?i=java)
+![React](https://skillicons.dev/icons?i=react&theme=dark&perline=15)
+
+**Frameworks e Bibliotecas**  
+![React](https://skillicons.dev/icons?i=react)
+![nodejs](https://skillicons.dev/icons?i=nodejs)
+![fastApi](https://skillicons.dev/icons?i=fastapi&theme=dark&perline=15).
+
+**Ferramentas**  
+
+![github](https://skillicons.dev/icons?i=github)
+![figma](https://skillicons.dev/icons?i=figma)
+![vscode](https://skillicons.dev/icons?i=vscode)
 
 </div>
 
@@ -33,21 +51,28 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=pedroTuribio&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=pedroTuribio&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=pedroTuribio&theme=tokyonight&hide_border=true" />
 
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=pedroTuribio&theme=tokyonight&hide_border=true&background=0d1117"/>
+<br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pedroTuribio&theme=tokyo-night&hide_border=true" />
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=pedroTuribio&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
 
-## 💼 Projeto em Destaque
+## 💼 Projetos em Destaque
 
-| 💡 Projeto | 🧰 Tecnologias | 🔗 Link |
-|-------------|----------------|---------|
-| **Portfólio** | React, HTML, CSS, JavaScript | [Ver projeto](https://github.com/pedroTuribio/Portfolio) |
+<div align="center">
+
+<a href="https://github.com/pedroTuribio/Portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pedroTuribio&repo=Portfolio&theme=tokyonight&hide_border=true" />
+</a>
+
+
+
+</div>
 
 ---
 
@@ -55,25 +80,22 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/pedro-carvalho-turibio-78158337a/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://www.instagram.com/_pedrocarvalhot/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pedro-carvalho-turibio-78158337a/)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/_pedrocarvalhot/)
+[![Github](https://skillicons.dev/icons?i=github)](https://github.com/pedroTuribio)
 
 </div>
 
 ---
 
-<h3 align="center">💬 “Aprender é o único deploy que nunca falha.” 🚀</h3>
+<p align="center">
+  <em>💬 “Aprender é o único deploy que nunca falha.”</em><br>
+  🚀 <strong>– Pedro Carvalho</strong>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pedroTuribio&color=blueviolet&style=flat-square"/>
 </p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=120&section=footer"/>
 
 
 
