@@ -91,10 +91,12 @@
   🚀 <strong>– Pedro Carvalho</strong>
 </p>
 
+ ----
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pedroTuribio&color=blueviolet&style=flat-square"/>
 </p>
 
-![GitHub repo size](https://img.shields.io/github/repo-size/usuariopedroTuribio/https://github.com/pedroTuribio/cinePatterns)
-![GitHub stars](https://img.shields.io/github/stars/usuariopedroTuribio/repositorio)
-![GitHub license](https://img.shields.io/github/license/usuariopedrTuribio/repositorio)
+![GitHub repo size](https://img.shields.io/github/repo-size/pedroTuribio/cinePatterns)
+![GitHub stars](https://img.shields.io/github/stars/pedroTuribio/cinePatterns)
+![GitHub license](https://img.shields.io/github/license/pedroTuribio/cinePatterns)
+
