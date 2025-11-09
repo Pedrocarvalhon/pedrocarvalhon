@@ -95,6 +95,6 @@
   <img src="https://komarev.com/ghpvc/?username=pedroTuribio&color=blueviolet&style=flat-square"/>
 </p>
 
-![GitHub repo size](https://img.shields.io/github/repo-size/usuario/repositorio)
-![GitHub stars](https://img.shields.io/github/stars/usuario/repositorio)
-![GitHub license](https://img.shields.io/github/license/usuario/repositorio)
+![GitHub repo size](https://img.shields.io/github/repo-size/usuariopedroTuribio/repositorio)
+![GitHub stars](https://img.shields.io/github/stars/usuariopedroTuribio/repositorio)
+![GitHub license](https://img.shields.io/github/license/usuariopedrTuribio/repositorio)
